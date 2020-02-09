@@ -117,7 +117,7 @@ $('#yes').click(function() {
                 text: "Tối nay tớ qua đón cậu đi chơi nheee :v Còn giờ thì inbox cho tớ điiiii",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'http://fb.com/dvh.sf';
+                    window.location = 'https://www.facebook.com/messages/t/dvh.sf';
                   }
             })
         }
