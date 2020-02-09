@@ -48,3 +48,13 @@ header h4 {
   font-family: 'Pacifico';
   text-align: center;
 }
+a
+{
+  font-family: 'Century Gothic', sans-serif;
+  position:absolute;
+  text-align: left;
+  bottom: 12px;
+  left: 22px;
+  font-size: 15px;
+  color: #353333de;
+}
